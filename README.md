@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Kazooki123
-- 👀 I’m interested in Coding, Making projects, gaming, etc.
-- 🌱 I’m currently learning Python, JavaScript, Java, Go, Rust, Ruby.
-- 💞️ I’m looking to collaborate on my Projects and future projects, So if you wanna help feel free to contact me or email me!
-- 📫 How to reach me? My Gmails: mgamerdinge146@gmail.com and markanthonygelito@gmail.com
-      Discord: starloexoliz
+Hello my name is Mark, You call me Kazooki or Starlo👋
 
-<!---
-Kazooki123/Kazooki123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Born in the Philippines🏔️
+
+-Loves coding and gaming🎮🧑‍💻
+
+-Content creator in Tiktok🧠
+
+-Study in Highschool📖
+
+-Beginner🔰
+
+# Progamming Languages I use
+
+* Python
+* JavaScript
+* Java
+* Rust
+* HTML & CSS
+
+I'm on a project to build a Search Engine primarily using Google Search API and other API's in the Google Cloud Console.
+
+# Contact Me?
+
+* Dicord: starloexolizzz
+* Emaill: mgamerdinge146@gmail.com
+* 2nd Email: markanthonygelito@gmail.com
