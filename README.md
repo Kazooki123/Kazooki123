@@ -11,9 +11,6 @@
 
 Hello my name is Mark, You call me Kazooki or Starlo👋
 
-![Twitter](https://badgen.net/badge/icon/Mr_Unknown?icon=twitter&label)
-![Discord](https://badgen.net/badge/icon/Marcoo?icon=discord&label&color=red)
-
 -Born in the Philippines🏔️
 
 -Loves coding and gaming🎮🧑‍💻
