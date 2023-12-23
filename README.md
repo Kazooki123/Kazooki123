@@ -2,6 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Kazooki123?logo=github&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/Kazooki123?logo=github&color=green)
+![GitHub contributors](https://img.shields.io/github/contributors/Kazooki123/starlosearch?logo=github&label=Contributors&color=red)
+![GitHub Discussions](https://img.shields.io/github/discussions/Kazooki123/starlosearch?logo=github&label=Discussions&color=green)
 ![Yt Views](https://img.shields.io/youtube/channel/views/UCDZFWAeqwUGm9OU4LYq6qWg)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDZFWAeqwUGm9OU4LYq6qWg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kazooki123/starlosearch?logo=github&label=Repo%20Size&color=purple)
