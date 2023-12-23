@@ -10,6 +10,12 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 
 -Beginner🔰
 
+# STATS
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)
+
+<!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
+
 # Progamming Languages I use
 
 * Python
