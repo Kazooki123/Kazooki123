@@ -1,5 +1,12 @@
 # Kazooki / StarloExoliz
 
+![GitHub followers](https://img.shields.io/github/followers/Kazooki123?logo=github&color=green)
+![GitHub User's stars](https://img.shields.io/github/stars/Kazooki123?logo=github&color=green)
+![Yt Views](https://img.shields.io/youtube/channel/views/UCDZFWAeqwUGm9OU4LYq6qWg)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDZFWAeqwUGm9OU4LYq6qWg)
+![GitHub repo size](https://img.shields.io/github/repo-size/Kazooki123/starlosearch?logo=github&label=Repo%20Size&color=purple)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Mr_Unknown157)
+
 ## About Me:
 
 Hello my name is Mark, You call me Kazooki or Starlo👋
