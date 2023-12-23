@@ -1,4 +1,6 @@
-# About Me
+# Kazooki / StarloExoliz
+
+## About Me:
 
 Hello my name is Mark, You call me Kazooki or Starlo👋
 
