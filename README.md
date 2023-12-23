@@ -12,7 +12,7 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 
 # STATS
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=buefy-dark)](https://git.io/streak-stats)
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
 
