@@ -19,9 +19,9 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 
 -Content creator in Tiktok🧠
 
--Study in Highschool📖
+-Studies in Highschool📖
 
--Beginner🔰
+-Slowy gets to know about Web development🔰
 
 # STATS
 
@@ -36,8 +36,26 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 * Java
 * Rust
 * HTML & CSS
+* GoLang
+* Mojo
+* C++
+* C
 
 I'm on a project to build a Search Engine primarily using Google Search API and other API's in the Google Cloud Console.
+
+# Tech Stack:
+
+![Static Badge](https://img.shields.io/badge/Svelte-black?logo=svelte&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/React-black?logo=react)
+![Static Badge](https://img.shields.io/badge/NextJS-black?logo=next.js)
+![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![Static Badge](https://img.shields.io/badge/Firebase-black?logo=firebase)
+![Static Badge](https://img.shields.io/badge/ExpressJS-black?logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NodeJS-black?logo=node.js)
+![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript)
+![Static Badge](https://img.shields.io/badge/SurrealDB-black?logo=surrealdb&logoColor=purple)
+
 
 # Contact Me?
 
