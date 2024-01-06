@@ -13,15 +13,15 @@
 
 Hello my name is Mark, You call me Kazooki or Starlo👋
 
--Born in the Philippines🏔️
+* Born in the Philippines🏔️
 
--Loves coding and gaming🎮🧑‍💻
+* Loves coding and gaming🎮🧑‍💻
 
--Content creator in Tiktok🧠
+* Content creator in Tiktok🧠
 
--Studies in Highschool📖
+* Studies in Highschool📖
 
--Slowy gets to know about Web development🔰
+* Slowy gets to know about Web development🔰
 
 # STATS
 
@@ -45,7 +45,7 @@ I'm on a project to build a Search Engine primarily using Google Search API and 
 
 # Tech Stack:
 
-![Static Badge](https://img.shields.io/badge/Svelte-black?logo=svelte&logoColor=orange) ![Static Badge](https://img.shields.io/badge/React-black?logo=react) ![Static Badge](https://img.shields.io/badge/NextJS-black?logo=next.js) ![Static Badge](https://img.shields.io/badge/MongoDB-black?logo=mongodb) ![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel) ![Static Badge](https://img.shields.io/badge/Firebase-black?logo=firebase) ![Static Badge](https://img.shields.io/badge/ExpressJS-black?logo=express&logoColor=white) ![Static Badge](https://img.shields.io/badge/NodeJS-black?logo=node.js) ![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript) ![Static Badge](https://img.shields.io/badge/SurrealDB-black?logo=surrealdb&logoColor=purple) ![Static Badge](https://img.shields.io/badge/Jest-black?logo=jest&logoColor=%23db362a) ![Static Badge](https://img.shields.io/badge/GoLang-black?logo=go) ![Static Badge](https://img.shields.io/badge/WASM-black?logo=webassembly) ![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass)
+![Static Badge](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte&logoColor=orange) ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js) ![Static Badge](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb) ![Static Badge](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) ![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase) ![Static Badge](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express&logoColor=white) ![Static Badge](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js) ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript) ![Static Badge](https://img.shields.io/badge/SurrealDB-black?style=for-the-badge&logo=surrealdb&logoColor=purple) ![Static Badge](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=%23db362a) ![Static Badge](https://img.shields.io/badge/GoLang-black?style=for-the-badge&logo=go) ![Static Badge](https://img.shields.io/badge/WASM-black?style=for-the-badge&logo=webassembly) ![Static Badge](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)
 
 # Contact Me?
 
