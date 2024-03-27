@@ -40,6 +40,7 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 * Mojo
 * C++
 * C
+* Zig
 
 I'm on a project to build a Search Engine primarily using Google Search API and other API's in the Google Cloud Console.
 
