@@ -50,6 +50,6 @@ I'm on a project to build a Search Engine primarily using Google Search API and 
 
 # Contact Me?
 
-* Dicord: starloexolizzz
+* Dicord: starloexoliz
 * Emaill: mgamerdinge146@gmail.com
 * 2nd Email: markanthonygelito@gmail.com
