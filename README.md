@@ -44,23 +44,44 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 
 <div align="center">
   <h1>
-    <b>Progamming Languages I use</b>
+    <b>Programming Languages I use or working on</b>
   </h1>
 </div>
 
-* Python
-* JavaScript
-* Java
-* Rust
-* HTML & CSS
-* GoLang
-* Mojo
-* C++
-* C
-* Zig
-* PHP
+<div align="center">
+  <table>
+  <tr>
+    <td>Python</td>
+    <td>JavaScript</td>
+    <td>Java</td>
+    <td>Scala</td>
+    <td>Haskell</td>
+  </tr>
+  <tr>
+    <td>Rust</td>
+    <td>HTML & CSS</td>
+    <td>GoLang</td>
+    <td>Typescript</td>
+    <td>Ruby</td>
+  </tr>
+  <tr>
+    <td>Mojo</td>
+    <td>C++</td>
+    <td>C</td>
+    <td>Bash</td>
+    <td>SQL</td>
+  </tr>
+  <tr>
+    <td>Zig</td>
+    <td>PHP</td>
+    <td>C#</td>
+    <td>Assembly</td>
+    <td>Glem</td>
+  </tr>
+</table>
+</div>
 
-I'm on a project to build a Search Engine primarily using Google Search API and other API's in the Google Cloud Console.
+<h3>I'm on a project to build a Search Engine, A Thread like Website, A Programming Language and a upcoming JS library/framework.</h3>
 
 <div align="center">
   <h1>
