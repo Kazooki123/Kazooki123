@@ -1,4 +1,13 @@
-# Kazooki / StarloExoliz
+<p align="center">
+  <img src="formygithub.png" alt="image">
+</p>
+
+<div align="center">
+  <h2>
+    Kazooki/Starloexoliz
+  </h2>
+</div>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Kazooki123?style=for-the-badge&logo=github&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/Kazooki123?style=for-the-badge&logo=github&color=green)
@@ -22,13 +31,22 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 
 * Slowy gets to know about Web development🔰
 
-# STATS
+<div align="center">
+  <h1>STATS</h1>
+  <p>From: https://git.io/streak-stats</p>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=buefy-dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kazooki123&theme=buefy-dark" alt="image">
+</div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
 
-# Progamming Languages I use
+<div align="center">
+  <h1>
+    <b>Progamming Languages I use</b>
+  </h1>
+</div>
 
 * Python
 * JavaScript
@@ -44,11 +62,19 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 
 I'm on a project to build a Search Engine primarily using Google Search API and other API's in the Google Cloud Console.
 
-# Tech Stack:
+<div align="center">
+  <h1>
+    <b>Tech Stack:</b>
+  </h1>
+</div>
 
 ![Static Badge](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte&logoColor=orange) ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![Static Badge](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js) ![Static Badge](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb) ![Static Badge](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) ![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase) ![Static Badge](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express&logoColor=white) ![Static Badge](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js) ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript) ![Static Badge](https://img.shields.io/badge/SurrealDB-black?style=for-the-badge&logo=surrealdb&logoColor=purple) ![Static Badge](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=%23db362a) ![Static Badge](https://img.shields.io/badge/GoLang-black?style=for-the-badge&logo=go) ![Static Badge](https://img.shields.io/badge/WASM-black?style=for-the-badge&logo=webassembly) ![Static Badge](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)
 
-# Contact Me?
+<div align="center">
+  <h1>
+    <b>☎️ Contact Me?</b>
+  </h1>
+</div>
 
 * Dicord: starloexoliz
 * Emaill: mgamerdinge146@gmail.com
