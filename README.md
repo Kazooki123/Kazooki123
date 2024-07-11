@@ -37,7 +37,7 @@ Hello my name is Mark, You call me Kazooki or Starlo👋
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kazooki123&theme=buefy-dark" alt="image">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kazooki123&theme=highcontrast&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
