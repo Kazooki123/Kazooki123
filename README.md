@@ -3,11 +3,10 @@
 </p>
 
 <div align="center">
-  <h2>
+  <h1>
     Kazooki/Starloexoliz
-  </h2>
+  </h1>
 </div>
-
 
 ![GitHub followers](https://img.shields.io/github/followers/Kazooki123?style=for-the-badge&logo=github&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/Kazooki123?style=for-the-badge&logo=github&color=green)
