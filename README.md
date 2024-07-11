@@ -16,19 +16,35 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDZFWAeqwUGm9OU4LYq6qWg?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kazooki123/starlosearch?style=for-the-badge&logo=github&label=Repo%20Size&color=purple)
 
-## About Me:
+<div align="center">
+  <h2>
+    ABOUT ME:
+  </h2>
+</div>
 
-Hello my name is Mark, You call me Kazooki or Starlo👋
+<div align="center">
+  <h3>
+    Hello my name is Mark, You call me Kazooki or Starlo👋
+  </h3>
+</div>
 
-* Born in the Philippines🏔️
-
-* Loves coding and gaming🎮🧑‍💻
-
-* Content creator in Tiktok🧠
-
-* Studies in Highschool📖
-
-* Slowy gets to know about Web development🔰
+<div align="center">
+  <p>
+    <li>Born in the Philippines🏔️</li>
+  </p>
+  <p>
+    <li>Loves coding and gaming🎮🧑‍💻</li>
+  </p>
+  <p>
+    <li>Content creator in Tiktok🧠</li>
+  </p>
+  <p>
+    <li>Studies in Highschool📖</li>
+  </p>
+  <p>
+    <li>Slowy gets to know about Web development, Game Development, Machine Learning, etc🔰</li>
+  </p>
+</div>
 
 <div align="center">
   <h1>STATS</h1>
