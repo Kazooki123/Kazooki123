@@ -112,6 +112,14 @@
   </h1>
 </div>
 
-* Dicord: starloexoliz
-* Emaill: mgamerdinge146@gmail.com
-* 2nd Email: markanthonygelito@gmail.com
+<div align="center">
+  <p>
+    <li><b>Dicord:</b> starloexoliz</li>
+  </p>
+  <p>
+    <li><b>Emaill:</b> mgamerdinge146@gmail.com</li>
+  </p>
+  <p>
+    <li><b>2nd Email:</b> markanthonygelito@gmail.com</li>
+  </p>
+</div>
