@@ -39,7 +39,7 @@
     <li>Content creator in Tiktok🧠</li>
   </p>
   <p>
-    <li>Studies in Highschool📖</li>
+    <li>Studies in Senior High📖</li>
   </p>
   <p>
     <li>Slowy gets to know about Web development, Game Development, Machine Learning, etc🔰</li>
