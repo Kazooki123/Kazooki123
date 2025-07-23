@@ -26,6 +26,9 @@
   <h3>
     Hello my name is Mark, You call me Kazooki or Starlo👋
   </h3>
+  <h2>
+    she/her
+  </h2>
 </div>
 
 <div align="center">
@@ -36,7 +39,7 @@
     <li>Loves coding and gaming🎮🧑‍💻</li>
   </p>
   <p>
-    <li>Content creator in Tiktok🧠</li>
+    <li>Continue to Learn new things🧠</li>
   </p>
   <p>
     <li>Studies in Senior High📖</li>
@@ -100,7 +103,9 @@
 </table>
 </div>
 
-<h3>I'm on a project to build a ~Search Engine~ (discountinued), A Thread like Website, A [Programming Language](https://github.com/crabby-lang/crabby) and a upcoming JS library/framework.</h3>
+<h3>I'm on a project to build a Thread like Website, A Programming Language and a upcoming JS library/framework.</h3>
+
+**Check out** [`Crabby`](https://github.com/crabby-lang/crabby)! 🦀
 
 <div align="center">
   <h1>
