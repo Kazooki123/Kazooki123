@@ -71,6 +71,7 @@
     <td>Java</td>
     <td>Scala</td>
     <td>Haskell</td>
+    <td>Nim</td>
   </tr>
   <tr>
     <td>Rust</td>
@@ -78,6 +79,7 @@
     <td>GoLang</td>
     <td>Typescript</td>
     <td>Ruby</td>
+    <td>Crabby</td>
   </tr>
   <tr>
     <td>Mojo</td>
@@ -85,18 +87,20 @@
     <td>C</td>
     <td>Bash</td>
     <td>SQL</td>
+    <td>Onyx</td>
   </tr>
   <tr>
     <td>Zig</td>
     <td>PHP</td>
     <td>C#</td>
     <td>Assembly</td>
-    <td>Glem</td>
+    <td>Gleam</td>
+    <td>Lobster</td>
   </tr>
 </table>
 </div>
 
-<h3>I'm on a project to build a Search Engine, A Thread like Website, A Programming Language and a upcoming JS library/framework.</h3>
+<h3>I'm on a project to build a ~Search Engine~ (discountinued), A Thread like Website, A [Programming Language](https://github.com/crabby-lang/crabby) and a upcoming JS library/framework.</h3>
 
 <div align="center">
   <h1>
@@ -114,7 +118,7 @@
 
 <div align="center">
   <p>
-    <li><b>Dicord:</b> starloexoliz</li>
+    <li><b>Dicord:</b> starloexoliz11</li>
   </p>
   <p>
     <li><b>Emaill:</b> mgamerdinge146@gmail.com</li>
