@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kazooki123&theme=highcontrast&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kazooki123&theme=rust-ferris-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png" alt="GitHub Streak" /></a>
 </div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
