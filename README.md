@@ -60,6 +60,10 @@
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/962173926849519716?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/962173926849519716)
+
+
 <div align="center">
   <h1>
     <b>Programming Languages I use or working on</b>
