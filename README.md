@@ -58,8 +58,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kazooki123&theme=rust-ferris-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/962173926849519716?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/962173926849519716)
-
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
 
 <div align="center">
