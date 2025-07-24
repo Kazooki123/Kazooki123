@@ -133,6 +133,4 @@
   </p>
 </div>
 
-<div style="text-align: ceneter;">
-  <a href="https://count.wellard.org/@:kazooki123?theme=asoul"></a>
-</div>
+![:kazooki123](https://count.wellard.org/@:kazooki123?theme=asoul)
