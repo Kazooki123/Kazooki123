@@ -132,3 +132,7 @@
     <li><b>2nd Email:</b> markanthonygelito@gmail.com</li>
   </p>
 </div>
+
+<div style="text-align: ceneter;">
+  <a href="https://count.wellard.org/@:kazooki123?theme=asoul"></a>
+</div>
