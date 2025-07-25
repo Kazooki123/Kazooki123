@@ -83,7 +83,7 @@
   <tr>
     <td>Rust</td>
     <td>HTML & CSS</td>
-    <td>GoLang</td>
+    <td>Go</td>
     <td>Typescript</td>
     <td>Ruby</td>
     <td>Crabby</td>
