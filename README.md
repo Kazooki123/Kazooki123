@@ -13,8 +13,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Kazooki123/starlosearch?style=for-the-badge&logo=github&label=Contributors&color=red)
 ![GitHub Discussions](https://img.shields.io/github/discussions/Kazooki123/starlosearch?style=for-the-badge&logo=github&label=Discussions&color=green)
 ![Yt Views](https://img.shields.io/youtube/channel/views/UCDZFWAeqwUGm9OU4LYq6qWg?style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDZFWAeqwUGm9OU4LYq6qWg?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Kazooki123/starlosearch?style=for-the-badge&logo=github&label=Repo%20Size&color=purple)
 
 <div align="center">
   <h2>
