@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    Kazooki/Starloexoliz
+    Kazooki | Starloexoliz
   </h1>
 </div>
 
