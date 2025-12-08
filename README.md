@@ -45,7 +45,7 @@
   <p>
     <li>Slowy gets to know about Web development, Game Development, Machine Learning, etc🔰</li>
   </p>
-  <p>I make music in <a href="https://on.soundcloud.com/pE0oOCGRpKh51MjXlu">SoundCloud</a></p>
+  <p>I make music in <a href="https://on.soundcloud.com/pE0oOCGRpKh51MjXlu">SoundCloud</a>☁️</p>
 </div>
 
 <div align="center">
