@@ -121,7 +121,9 @@
 
 <h3>I'm on a mission to build a Programming Language and an upcoming JS library or framework.</h3>
 
-<h2>My Projects</h2>
+<div align="center">
+  <h2>My Projects</h2>
+</div>
 
 - <u><strong>Crabby 🦀</strong></u> — <em>A multi-paradigm programming language.</em>
 - <u><strong>LunarDB 🌙</strong></u> — <em>A NoSQL database management system rewritten in Rust.</em>
