@@ -180,16 +180,5 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=JetBrains+Mono
-      &size=14
-      &pause=2500
-      &color=888888
-      &center=true
-      &vCenter=true
-      &width=700
-      &lines=Build+things+that+last.
-             ;Silence+is+also+a+design+choice.
-             ;Complexity+should+earn+its+place."
-  />
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=888888&center=true&vCenter=true&width=700&lines=Build+things+that+last.;Silence+is+also+a+design+choice.;Complexity+should+earn+its+place."/>
 </p>
