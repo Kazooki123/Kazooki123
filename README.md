@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp7159896.png" alt="image" width="700">
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/feYs9pt.jpeg" alt="image2" width="700">
 </p>
 
@@ -68,7 +64,6 @@
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kazooki123&theme=darcula" />
-  </a>
 </div>
 
 <div align="center">
