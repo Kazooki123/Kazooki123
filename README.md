@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="formygithub.png" alt="image">
+  <img src="https://wallpapercave.com/wp/wp7159896.png" alt="image" width="700">
 </p>
 
 <div align="center">
