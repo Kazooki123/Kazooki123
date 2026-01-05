@@ -54,17 +54,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazooki123&theme=dark&hide_border=true&layout=compact" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazooki123&theme=darcula" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kazooki123&theme=rust-ferris-dark&hide_border=true&mode=weekly" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kazooki123&theme=darcula" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazooki123&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kazooki123&theme=darcula" />
 </div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
