@@ -50,7 +50,7 @@
 
 <div align="center">
   <h1>STATS</h1>
-  <p>From: https://git.io/streak-stats</p>
+  <p>From: <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">Github Profile Summary</></p>
 </div>
 
 <div align="center">
