@@ -70,7 +70,11 @@
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/962173926849519716?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true)](https://discord.com/users/962173926849519716)
+<div align="center">
+  <a href="https://discord.com/users/962173926849519716">
+    <img src="https://lanyard.cnrad.dev/api/962173926849519716?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true" alt="Discord Presence">
+  </a>
+</div>
 
 
 <div align="center">
