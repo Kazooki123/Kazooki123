@@ -18,9 +18,13 @@
 ![GitHub Discussions](https://img.shields.io/github/discussions/Kazooki123/starlosearch?style=for-the-badge&logo=github&label=Discussions&color=green)
 ![Yt Views](https://img.shields.io/youtube/channel/views/UCDZFWAeqwUGm9OU4LYq6qWg?style=for-the-badge)
 
+<hr>
+
 <div align="center">
   <h2>
-    ABOUT ME:
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=2000&color=888888&center=true&vCenter=true&width=700&height=100&lines=About+Me!"/>
+</p>
   </h2>
 </div>
 
