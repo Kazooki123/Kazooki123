@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td>Rust</td>
-    <td>HTML & CSS</td>
+    <td>HTML</td>
     <td>Go</td>
     <td>Typescript</td>
     <td>Ruby</td>
