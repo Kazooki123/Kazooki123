@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazooki123&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kazooki123&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
