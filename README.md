@@ -82,7 +82,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp5420947.gif" alt="blossom aesthetic" width="500">
+  <img src="https://i.imgur.com/uamRwFA.gif" alt="blossom aesthetic" width="500">
 </p>
 
 
