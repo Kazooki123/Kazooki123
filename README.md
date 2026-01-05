@@ -53,13 +53,19 @@
   <p>From: https://git.io/streak-stats</p>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazooki123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kazooki123&theme=rust-ferris-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazooki123&theme=dark&hide_border=true&layout=compact" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Kazooki123&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Kazooki123&theme=rust-ferris-dark&hide_border=true&mode=weekly" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kazooki123&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+</div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
 
