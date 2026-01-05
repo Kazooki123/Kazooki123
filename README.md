@@ -110,9 +110,12 @@
 </table>
 </div>
 
-<h3>I'm on a project to build a Thread like Website, A Programming Language and a upcoming JS library/framework.</h3>
+<h3>I'm on a mission to build a Programming Language and an upcoming JS library or framework.</h3>
 
-**Check out** [`Crabby`](https://github.com/crabby-lang/crabby)! 🦀
+<h2>My Projects</h2>
+
+<u>Crabby 🦀</u> - A multi-paradigm programming language.
+<u>LunarDB 🌙</u> - A nosql database management system rewritten in Rust.
 
 <div align="center">
   <h1>
