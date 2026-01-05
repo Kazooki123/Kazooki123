@@ -150,5 +150,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/wintertraingif-FQam4eb" alt="winter train aesthetic" width="300">
+  <img src="https://i.imgur.com/gallery/wintertraingif-FQam4eb.gif" alt="winter train aesthetic" width="300">
 </p>
