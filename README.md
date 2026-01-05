@@ -23,7 +23,7 @@
 <div align="center">
   <h2>
     <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=2000&color=888888&center=true&vCenter=true&width=700&height=100&lines=About+Me!"/>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=2000&color=888888&center=true&vCenter=true&width=700&height=100&lines=About+Me!"/>
 </p>
   </h2>
 </div>
