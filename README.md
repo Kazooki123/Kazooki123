@@ -30,8 +30,9 @@
 
 <div align="center">
   <h3>
-    Hello! My name is Mark, But you can call me Kazooki or Starlo 👋 <3
+    Hello! My name is Mark.
   </h3>
+  <h3>But you can call me Kazooki or Starlo 👋 <3</h3>
   <h2>
     she/her
   </h2>
