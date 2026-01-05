@@ -79,6 +79,12 @@
   </a>
 </div>
 
+<hr>
+
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp5420947.gif" alt="blossom aesthetic" width="700">
+</p>
+
 
 <div align="center">
   <h1>
