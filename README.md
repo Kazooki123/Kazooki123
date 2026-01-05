@@ -114,16 +114,8 @@
 
 <h2>My Projects</h2>
 
-<ul>
-  <li>
-    <u><strong>Crabby 🦀</strong></u><br>
-    <em>A multi-paradigm programming language.</em>
-  </li>
-  <li>
-    <u><strong>LunarDB 🌙</strong></u><br>
-    <em>A NoSQL database management system rewritten in Rust.</em>
-  </li>
-</ul>
+- <u><strong>Crabby 🦀</strong></u> — <em>A multi-paradigm programming language.</em>
+- <u><strong>LunarDB 🌙</strong></u> — <em>A NoSQL database management system rewritten in Rust.</em>
 
 <div align="center">
   <h1>
