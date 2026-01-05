@@ -147,4 +147,8 @@
   </p>
 </div>
 
-![:kazooki123](https://count.wellard.org/@:kazooki123?theme=asoul)
+<hr>
+
+<p align="center">
+  <img src="https://imgur.com/gallery/wintertraingif-FQam4eb" alt="winter train aesthetic" width="300">
+</p>
