@@ -180,5 +180,5 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2500&color=888888&center=true&vCenter=true&width=700&lines=Build+things+that+last.;Silence+is+also+a+design+choice.;Complexity+should+earn+its+place."/>
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2500&color=888888&center=true&vCenter=true&width=700&lines=Build+things+that+last.;Silence+is+also+a+design+choice.;Complexity+should+earn+its+place.;To+achieve+complexity,+you+need+simplicity.;And+to+achieve+simplicity,+you+need+complexity."/>
 </p>
