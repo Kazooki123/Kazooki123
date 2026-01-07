@@ -59,15 +59,15 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazooki123&theme=darcula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazooki123&theme=darcula"/>
 </div>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kazooki123&theme=darcula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kazooki123&theme=darcula"/>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kazooki123&theme=darcula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kazooki123&theme=darcula"/>
 </div>
 
 <!-- ([![GitHub Streak](https://streak-stats.demolab.com?user=Kazooki123&theme=dark)](https://git.io/streak-stats))  -->
