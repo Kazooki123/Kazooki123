@@ -172,6 +172,8 @@
 
 <hr>
 
+<img src="https://count.getloli.com/@counter?name=counter&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt=":counter"/>
+
 <p align="center">
   <img src="https://i.imgur.com/QYZqb79.gif" alt="winter train aesthetic" width="700">
 </p>
