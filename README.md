@@ -135,9 +135,9 @@
   <h2>My Projects</h2>
 </div>
 
-- <u><strong>Crabby 🦀</strong></u> — <em>A multi-paradigm programming language.</em>
-- <u><strong>Sappho 🌸</strong></u> - <em>A Zig written experimental kernel.</em>
-- <u><strong>LunarDB 🌙</strong></u> — <em>A NoSQL database management system rewritten in Rust.</em>
+- <u><a href="https://github.com/Kazooki123/crabby"><strong>Crabby 🦀</strong></a></u> — <em>A multi-paradigm programming language.</em>
+- <u><a href="https://github.com/Kazooki123/sappho"><strong>Sappho 🌸</strong></a></u> - <em>A Zig written experimental kernel.</em>
+- <u><a href="https://github.com/Kazooki123/lunardb"><strong>LunarDB 🌙</strong></a></u> — <em>A NoSQL database management system rewritten in Rust.</em>
 - <u><a href="https://github.com/Kazooki123/typeify"><strong>Typeify ⚙️</strong></a></u> — <em>A JS-to-TS converter but in a command line.</em>
 
 
